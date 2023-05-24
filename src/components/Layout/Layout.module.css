@@ -1,0 +1,10 @@
+.container {
+    margin-top: 20px;
+}
+
+.nav {
+    margin-left: 50px;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}

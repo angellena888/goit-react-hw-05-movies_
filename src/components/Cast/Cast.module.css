@@ -1,0 +1,28 @@
+.cast_list {
+    margin-left: 50px;
+    list-style: none;
+    padding: 0;
+}
+
+.cast_list li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.actor_image {
+    width: 100px;
+    height: 150px;
+    margin-right: 10px;
+}
+
+.actor_name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.character_name {
+    font-size: 14px;
+    color: grey;
+}
